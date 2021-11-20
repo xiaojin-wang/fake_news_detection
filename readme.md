@@ -4,9 +4,7 @@ This is the description of the project code of Group 17 for CS5344.
 
 ## Data Source 
 
-Note: the complete dataset cannot be distributed due to the privacy policies and restrictions of Twitter, so we decide to put the processed sample on google drive:  
-
-Link: https://drive.google.com/drive/folders/1Qp8F26fPmmjJJWP31CNkyQXOoVgTYEvU?usp=sharing. 
+Note: the complete dataset cannot be distributed due to the privacy policies and restrictions of Twitter
 
 And the tool we use to download data: FakeNewsNet: https://github.com/KaiDMML/FakeNewsNet 
 
