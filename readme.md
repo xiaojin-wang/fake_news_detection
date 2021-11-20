@@ -1,6 +1,6 @@
 # Readme.md 
 
-This is the description of the project code of Group 17 for CS5344. 
+This is the description of the project code of CS5344. 
 
 ## Data Source 
 
